@@ -1,20 +1,10 @@
-<p align = "center"><b>Hello, I'm Kevin</b> 👋</p>
-<p align="center"><code>flutter <img src = "images/flutter.png" width ="12"> team member at GDSC GNI <img src = "images/gdsc.jpeg",height ="20", width ="20"></code></p>
-<p>I am Kevin Paul from India 🇮🇳 ,b.tech 26" <br>
-  intrested in a lot of domains <br>
-  <ul>
-    <li>
-      Algorithms
-    </li>
-    <li>
-      web and app development
-    </li>
-    <li>
-      machine learning
-    </li>
-    <li>
-      cyber security
-    </li>
-  </ul>
-</p>
+# Hey I am Kevin
+
+<a href="https://discord.com/users/453483398359547905">
+  <img align="left" alt="kevin | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/kevin-paul-reddy-janagari-70bb90285/">
+  <img align="left" alt="Kevin | LinkedIN" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+</a>
 
