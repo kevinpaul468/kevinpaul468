@@ -3,7 +3,7 @@
 I'm a software developer specializing in web development. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 - 🌱 I’m currently learning more about Artificial Intelligence.
-- 💬 Ask me about anything related to git, Python, or dart.
+- 💬 Ask me about anything related to git, Python, js ,or dart.
 - 📫 How to reach me: [kevinpaul468@gmail.com](mailto:kevinpaul468@gmail.com)
 - ⚡ Fun fact: I rarely touch grass.
 
